@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning C++
 - 😎 Maybe I can code in JS
-- 🏊‍♂️🚴‍♂️🏃‍♂️I'm pro triathlete
+- 🏊‍♂️🚴‍♂️🏃‍♂️I'm pro junior triathlete
 
 <!--
 **sptachu/sptachu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
