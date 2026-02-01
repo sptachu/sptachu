@@ -8,6 +8,7 @@
 - 🏊‍♂️🚴‍♂️🏃‍♂️ I'm also PRO U23 Triathlete
 - 👟 Amateur Runner (PB for Half Marathon: 1:08:56)
 - 📊 Check out my training progress on Strava:
+
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/23714646)
 
 *Combining the discipline of professional sports with the world of software development (ICT student).*
