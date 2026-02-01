@@ -4,6 +4,8 @@
 - 🙃 App Builder: I enjoy turning ideas into reality using Node.js or Flask.
 - 🎓 Student & Team Player: Just finished a collaborative project with friends – check out my repos!
 - 🌱 Currently exploring: AI capabilities and Cloud technologies
+
+  
   
 - 🏊‍♂️🚴‍♂️🏃‍♂️ I'm also PRO U23 Triathlete
 - 👟 Amateur Runner (PB for Half Marathon: 1:08:56)
