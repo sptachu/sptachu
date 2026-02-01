@@ -4,11 +4,11 @@
 - 😎 Multilingual Coder: I speak JS, Java, Python, and C++ (mostly fluently).
 - 🙃 App Builder: I enjoy turning ideas into reality using Node.js or Flask.
 - 🎓 Student & Team Player: Just finished a collaborative project with friends – check out my repos!
-- 🌱 Currently exploring: AI capabilities and Cloud technologies
+- 🌱 Currently exploring: AI capabilities and Cloud technologies.
 
 ### 🏁 Athlete
-- 🏊‍♂️🚴‍♂️🏃‍♂️ I'm also PRO U23 Triathlete
-- 👟 Amateur Runner (PB for Half Marathon: 1:08:56)
+- 🏊‍♂️🚴‍♂️🏃‍♂️ I'm also PRO U23 Triathlete.
+- 👟 Amateur Runner (PB for Half Marathon: 1:08:56).
 - 📊 Check out my training progress on Strava:
 
 [![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/23714646)
