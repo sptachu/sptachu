@@ -1,7 +1,7 @@
 # Hi there! I'm Stachu 👋
 
 ### 💻 Developer
-- 😎 Multilingual Coder: I speak JS, Java, Python, and C++ (mostly fluently).
+- 😎 Multilingual Coder: I speak JS, Java, Python, matlab, and C++ (mostly fluently).
 - 🙃 App Builder: I enjoy turning ideas into reality using Node.js or Flask.
 - 🎓 Student & Team Player: Just finished a collaborative project with friends – check out my repos!
 - 🌱 Currently exploring: AI capabilities and Cloud technologies.
